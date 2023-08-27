@@ -1,4 +1,4 @@
-Treue_Technologies-Task3-Startups_Success_Rate_Prediction
+# Treue_Technologies-Task3-Startups_Success_Rate_Prediction
 
     This repository contains code for predicting the success rate of startups using data analysis and machine learning techniques. The code is written in Python and uses libraries such as NumPy, pandas, matplotlib, seaborn, and scikit-learn.
 
